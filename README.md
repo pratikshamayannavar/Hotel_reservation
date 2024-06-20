@@ -8,5 +8,5 @@ Analyze the dataset to determine the total number of reservations, most popular 
 
 ### Technologies Used**
   
--**SQL:** For querying and analyzing the hotel reservation dataset.
--**Database Management System (DBMS):** MySQL, for storing and managing the dataset.
+- **SQL:** For querying and analyzing the hotel reservation dataset.
+- **Database Management System (DBMS):** MySQL, for storing and managing the dataset.
